@@ -1,0 +1,64 @@
+.link{
+    margin-top: 500px;
+    margin-left: 190px;
+}
+
+.alert{
+    margin-left: 0px;
+}
+
+.itemcount2{
+    
+   
+    background-color: white;
+    color: black;
+  
+    width: 190px; 
+    height: 45px; 
+   
+}
+
+.itemcount{
+    margin-top: 100px;
+    margin-left: 190px;
+    display:flex;
+    align-self: flex-start;
+
+    width: 200px;; 
+    height: 60px; 
+  
+    flex-direction: row;
+    align-content: flex-start;
+}
+
+.boton_sumar{
+    text-align: center;
+    height: 40px; 
+
+}
+
+.contador{
+    margin-top: 7px;
+    text-align: center;
+    width: 50px;
+
+    height: 15px; 
+
+}
+
+.boton_restar{
+    text-align: left;
+    height: 40px; 
+ 
+}
+
+.boton_agregar_carrito{
+    width: 150px;
+    height: 40px;
+
+}
+
+.prueba{
+    display: flex;
+    flex-direction: row;
+}
